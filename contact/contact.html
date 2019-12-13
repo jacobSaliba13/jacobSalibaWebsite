@@ -12,6 +12,7 @@
 
     <title>MYK Contact</title>
     <link rel="stylesheet" type="text/css" href="Contact.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
 <body>
@@ -43,8 +44,91 @@
 
             </ul>
         </div>
+
     </nav>
-    <h1>Contact</h1>
+
+    <div class="m-5 p-2 d-flex  justify-content-center">
+        <h1>Contact</h1>
+    </div>
+    <!--Section: Contact v.2-->
+    <section class="m-4 p-5 d-flex  justify-content-center">
+
+        <!--Grid column-->
+        <div class="col-md-10 ">
+            <form id="contact-form" name="contact-form">
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-12 justify-content-center">
+                        <div class="md-form mb-0">
+                            <input type="text" id="name" name="name" class="form-control">
+                            <label for="name" class="">Your name</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-md-12 ">
+                        <div class="md-form mb-0">
+                            <input type="text" id="email" name="email" class="form-control">
+                            <label for="email" class="">Your email</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row">
+                    <div class="col-md-12 justify-content-center">
+                        <div class="md-form mb-0">
+                            <input type="text" id="subject" name="subject" class="form-control">
+                            <label for="subject" class="">Subject</label>
+                        </div>
+                    </div>
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-12">
+
+                        <div class="md-form">
+                            <textarea type="text" id="message" name="message" rows="7"
+                                class="form-control md-textarea"></textarea>
+                            <label for="message">Your message</label>
+                        </div>
+
+                    </div>
+                </div>
+                <!--Grid row-->
+
+            </form>
+
+            <div class="text-center text-md-center">
+                <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+            </div>
+            <div class="status"></div>
+        </div>
+
+
+
+    </section>
+    <div class="text-center text-md-center" style="font-size: 35px;">
+
+        <a href="https://www.facebook.com/jacob.saliba.12" target="_blank" class="fa fa-facebook"></a>
+        <a href="https://www.instagram.com/saliba.jacob/" target="_blank" class="fa fa-instagram"></a>
+        <a href="#" target="_blank" class="fa fa-vimeo"> </a>
+
+    </div>
+
+
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

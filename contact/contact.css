@@ -4,3 +4,45 @@
 .navbar-brand{
     background-color: black !important;
 }
+body{
+    background-color: black
+}
+h1{
+    
+    font-size:45px;
+    
+    text-transform: uppercase;
+    color: white
+}
+
+
+label{
+    color:white;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  text-decoration: none;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa{
+    width: 100px
+}
+.fa-facebook {
+     
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    
+  color: white;
+}
+
+/* Vimeo */
+.fa-vimeo {
+   
+  color:white;
+}
