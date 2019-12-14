@@ -15,9 +15,8 @@ h1{
     color: white
 }
 
-
-label{
-    color:white;
+.submit{
+    color:black;
 }
 /* Add a hover effect if you want */
 .fa:hover {
@@ -46,3 +45,4 @@ label{
    
   color:white;
 }
+
