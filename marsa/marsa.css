@@ -1,0 +1,20 @@
+.bg-dark {
+ background-color: black !important;
+}
+.navbar-brand{
+    background-color: black !important;
+}
+h1{
+   
+    font-size: 50pt;
+    text-transform: uppercase
+    
+}
+
+h2{
+text-transform: uppercase;
+  color: black;
+  text-align:left;
+  font-size: 20pt
+
+}

@@ -1,0 +1,44 @@
+.bg-dark {
+ background-color: black !important;
+}
+.navbar-brand{
+    background-color: black !important;
+}
+
+body {
+  max-width: auto;
+  height: auto;
+}
+
+
+h1{
+   color: white;
+    font-size: 51pt;
+    text-transform: uppercase
+    
+    
+}
+p{
+     color: white;
+      text-align: end
+    
+    
+}
+
+h2{
+    font-size:45px;
+    text-transform: uppercase;
+    text-align: end
+    
+}
+
+a{
+     
+    color:white
+   
+}
+a:hover {
+  
+  color: white;
+  
+}
