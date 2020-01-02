@@ -7,18 +7,23 @@
 
 body {
   max-width: auto;
-  height: auto;
+  height: 100%;
+  background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
 }
 
 
 h1{
    color: white;
-    font-size: 51pt;
+    font-size: 7vw;
     text-transform: uppercase
     
     
 }
 p{
+  font-size: 1vw;
      color: white;
       text-align: end
     
@@ -26,7 +31,7 @@ p{
 }
 
 h2{
-    font-size:45px;
+    font-size:4vw;
     text-transform: uppercase;
     text-align: end
     
