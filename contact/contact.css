@@ -5,19 +5,22 @@
     background-color: black !important;
 }
 body{
-    background-color: black
+    background-color: black;
+}
+.button{
+   background-color:white;
 }
 h1{
     
     font-size:45px;
-    
+    font-family: 'Raleway', sans-serif ;
+    font-weight: bolder;
     text-transform: uppercase;
     color: white
 }
 
-.submit{
-    color:black;
-}
+
+
 /* Add a hover effect if you want */
 .fa:hover {
   text-decoration: none;
@@ -37,7 +40,7 @@ h1{
 /* Instagram */
 .fa-instagram {
     
-  color: white;
+  color:white;
 }
 
 /* Vimeo */

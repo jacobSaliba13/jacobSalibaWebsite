@@ -5,7 +5,8 @@
     background-color: black !important;
 }
 h1{
-   
+   font-family:  'Raleway', sans-serif ;
+   font-weight: bolder;
     font-size: 45pt;
     text-transform: uppercase;
     text-align: center;
@@ -13,23 +14,16 @@ h1{
     
 }
 p{
-    text-align: center;
+   font-family:  'Raleway', sans-serif ;
+    text-justify: auto;
     color: gray;
-}
-
-h2{
-text-transform: uppercase;
-  color: black;
-  text-align:left;
-  font-size: 20pt
-
 }
 
 #test:hover{
 transform: scale(1.1)
 }
 
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+
 
 *, *:before, *:after{
   margin: 0;
