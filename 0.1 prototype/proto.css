@@ -6,17 +6,26 @@
 }
 
 h1{
-   
-    font-size: 45pt;
+    
+    font-family:  'Raleway', sans-serif ;
+    font-weight: bolder;   
+    font-size: 7vw;
     text-transform: uppercase
     
 }
 p{
+    font-family:  'Raleway', sans-serif ;
      text-align: justify;
     text-justify: inter-word;
 }
 
-h2{
-    font-size:45px;
-    text-transform: uppercase;
+
+.carousel-item {
+  height: 80vh;
+  min-height: 100px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }

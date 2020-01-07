@@ -6,17 +6,33 @@
 }
 
 h1{
-   
-    font-size: 45pt;
+    font-family:  'Raleway', sans-serif ;
+    font-weight: bolder;
+    font-size: 8vw;
     text-transform: uppercase
     
 }
 p{
-     text-align: justify;
-    text-justify: inter-word;
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;   
 }
 
-h2{
-    font-size:45px;
-    text-transform: uppercase;
+#text {
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
 }
+
+#text1 {
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
+}
+
+
