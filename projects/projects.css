@@ -14,13 +14,18 @@ body {
   background-size: cover;
 }
 
+h2:hover {
+ 
+  transform: scale(1.03); 
+}
 
-h1{
+ h1{
    font-family: 'Raleway', sans-serif ;
     font-weight: bolder;
     color: white;
     font-size: 7vw;
-    text-transform: uppercase
+    text-transform: uppercase;
+   
 
 
 }
