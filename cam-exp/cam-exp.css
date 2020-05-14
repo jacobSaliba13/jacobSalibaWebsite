@@ -152,3 +152,14 @@ body{
 .fadeIn-right{
   left: 80%;
 }
+
+.button {
+
+  border: none;
+  color:black;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}

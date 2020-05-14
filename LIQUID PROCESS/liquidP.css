@@ -1,0 +1,41 @@
+.bg-dark {
+ background-color: black !important;
+}
+.navbar-brand{
+    background-color: black !important;
+}
+
+h1{
+   font-family: 'Raleway', sans-serif ;
+   font-weight: bolder;
+    font-size: 8vw;
+    text-transform: uppercase
+    
+}
+p{
+    font-family: 'Space Mono', monospace;
+    text-align: justify;
+  
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size:6vw;
+    text-transform: uppercase;
+}
+ul 
+{
+line-height:300%
+}
+
+.button {
+  background-color:white;
+  border: none;
+  color:black;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}

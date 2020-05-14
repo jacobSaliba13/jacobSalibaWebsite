@@ -1,0 +1,75 @@
+
+.bg-dark {
+ background-color: black !important;
+}
+.navbar-brand{
+    background-color: black !important;
+}
+
+h1{
+    font-family:  'Raleway', sans-serif ;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 8vw;
+    
+}
+p{
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    
+    
+    
+}
+
+#text {
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
+}
+
+#text1 {
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
+}
+
+#text2 {
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
+}
+#text3{
+    font-family:  'Raleway', sans-serif ;
+    text-align: center;
+    font-size: 9pt;
+    color: lightgrey
+    
+    
+}
+.button {
+  background-color:white;
+  border: none;
+  color:black;
+  padding: 15px 32px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+.wrapper{
+    margin: 0 auto;
+    width 1000px;
+}
+video {
+    width: 100%;
+
+}
